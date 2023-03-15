@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@blocknote/core": "^0.4.6-alpha.3",
+    "@blocknote/react": "^0.4.6-alpha.3",
     "@types/node": "18.15.3",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
